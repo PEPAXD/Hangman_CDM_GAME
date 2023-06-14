@@ -29,6 +29,16 @@ To run the game, follow these steps:
    ```shell
    git clone https://github.com/your-username/hangman-game.git
 
+3. Navigate to the project directory:
+
+   ```shell
+   cd hangman-game
+
+4. Run the script by executing the following command:
+
+   ```shell
+   python hangman.py
+
 ## Requirements
   - Python 3.x
 
